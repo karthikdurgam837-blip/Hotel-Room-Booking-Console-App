@@ -1,0 +1,8 @@
+{
+  "name": "Room Organization & Decluttering AI",
+  "description": "An AI-powered room organization and decluttering planner. Upload room photos to analyze clutter and get actionable organization plans, layout recommendations, and expert chat coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
